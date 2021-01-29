@@ -1,3 +1,4 @@
+[EN]
 What is all this here?
 
 Clone of https://github.com/QubesOS/qubes-doc translated into German.
@@ -7,7 +8,7 @@ We want to make it easier for Qubes beginners to go with Qubes OS.
 You will soon find your own turtorials for beginners and advanced users at:
 Link: comming soon...
 
-======================
+[DE]
 Was soll das alles hier? 
 
 In das Deutsche übersetzte QubesOS Dokumentation (noch nicht vollständig!)
