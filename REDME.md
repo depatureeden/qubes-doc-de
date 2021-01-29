@@ -13,3 +13,5 @@ Wir wollen es Anfängern ermöglichen sich besser mit Qubes OS vertraut zu mache
 
 Diese werden dann auch hier leicht zu finden sein.
 Dieses Projekt ist nicht vollständig und der Zeit noch in Arbeit.
+https://github.com/QubesOS/qubes-doc<br>
+https://www.qubes-os.org/doc/
